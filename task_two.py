@@ -14,11 +14,11 @@ def check_max(max, min):
     if(int(min)<75):
         if(int(max)<75):
             return "Sorry, max is less than 75, input max again"
-        if(int(max)>200):
-            return "Sorry, max is more than 200, input max again"
     if(int(min)>75):
         if(int(max)<int(min)):
             return "Sorry min is more than max, input max again... you know that you are breaking rules that you yourself made up right?"
+    if (int(max) > 200):
+        return "Sorry, max is more than 200, input max again"
 def check_minmax(nmbr, min, max):
     if int(min)<int(nmbr)<int(max):
         return 0
