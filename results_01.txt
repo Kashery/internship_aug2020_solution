@@ -1,0 +1,30 @@
+|Summary value: 1088696.0407198002|
+|Summary value: 462542.8167146951|
+|Summary value: 2973133.644504479|
+|Summary value: 3504234.1373728532|
+|Summary value: 360589.74410343723|
+|Summary value: 4632509.167897236|
+|Summary value: 7995192.2679835865|
+|Summary value: 9783078.204457596|
+|Summary value: 6358490.941039335|
+|Summary value: 4560448.654198959|
+|Name: Prod1| |Price: 21.800080911489793| |Amount: 49940|
+|Name: Prod2| |Price: 20.760449583244842| |Amount: 22280|
+|Name: Prod3| |Price: 47.76655438369743| |Amount: 62243|
+|Name: Prod4| |Price: 68.98370284997152| |Amount: 50798|
+|Name: Prod5| |Price: 4.703876230836145| |Amount: 76658|
+|Name: Prod6| |Price: 84.73430462031489| |Amount: 54671|
+|Name: Prod7| |Price: 83.22776761308697| |Amount: 96064|
+|Name: Prod8| |Price: 99.09824864474221| |Amount: 98721|
+|Name: Prod9| |Price: 72.42924445020829| |Amount: 87789|
+|Name: Prod10| |Price: 85.53300300459429| |Amount: 53318|
+|Name: Prod1| |Price: 21.800080911489793| |Amount:49940|
+|Name: Prod2| |Price: 20.760449583244842| |Amount:22280|
+|Name: Prod3| |Price: 47.76655438369743| |Amount:62243|
+|Name: Prod4| |Price: 68.98370284997152| |Amount:50798|
+|Name: Prod5| |Price: 4.703876230836145| |Amount:76658|
+|Name: Prod6| |Price: 84.73430462031489| |Amount:54671|
+|Name: Prod7| |Price: 83.22776761308697| |Amount:96064|
+|Name: Prod8| |Price: 99.09824864474221| |Amount:98721|
+|Name: Prod9| |Price: 72.42924445020829| |Amount:87789|
+|Name: Prod10| |Price: 85.53300300459429| |Amount:53318|
