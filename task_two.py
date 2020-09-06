@@ -2,6 +2,8 @@
 # is range supposed to be random?
 # I did all of them
 def check_min(min):
+    if min == "":
+        return "Sorry I didn't get that"
     if 0 < int(min) < 150:
         return 0
     if int(min) < 0:
@@ -9,6 +11,8 @@ def check_min(min):
     if int(min) > 150:
         return "Sorry, min is more than 150, try again"
 def check_max(max, min):
+    if max == "":
+        return "Sorry I didn't get that"
     if 75<int(max)<200 and  int(min)<int(max):
         return 0
     if(int(min)<75):
@@ -20,6 +24,8 @@ def check_max(max, min):
     if (int(max) > 200):
         return "Sorry, max is more than 200, input max again"
 def check_minmax(nmbr, min, max):
+    if nmbr == "":
+        return "Sorry I didn't get that"
     if int(min)<int(nmbr)<int(max):
         return 0
     if int(nmbr)<int(min):
